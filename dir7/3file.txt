@@ -1,1 +1,5 @@
-hello world
+<<<<<<< HEAD
+ world is beautiful
+India best
+hello i am good
+>>>>>>> f2
